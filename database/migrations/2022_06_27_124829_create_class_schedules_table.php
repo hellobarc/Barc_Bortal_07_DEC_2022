@@ -1,0 +1,37 @@
+<?php
+
+use Illuminate\Database\Migrations\Migration;
+use Illuminate\Database\Schema\Blueprint;
+use Illuminate\Support\Facades\Schema;
+
+class CreateClassSchedulesTable extends Migration
+{
+    /**
+     * Run the migrations.
+     *
+     * @return void
+     */
+    public function up()
+    {
+        Schema::create('class_schedules', function (Blueprint $table) {
+            $table->id();
+            $table->smallInteger('course_id');
+            $table->integer('batch_id');
+            $table->integer('unit_id');
+            $table->timestamp('class_date');
+            $table->integer('user_id'); // Instruction id
+            $table->integer('moderator_id'); // mdoerator id
+            $table->timestamps();
+        });
+    }
+
+    /**
+     * Reverse the migrations.
+     *
+     * @return void
+     */
+    public function down()
+    {
+        Schema::dropIfExists('class_schedules');
+    }
+}

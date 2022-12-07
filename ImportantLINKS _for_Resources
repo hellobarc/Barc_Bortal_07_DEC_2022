@@ -1,0 +1,34 @@
+https://bashooka.com/coding/css-javascript-file-upload-examples/
+
+
+https://github.com/anish2690/vue-draggable-next = Drag drop reorder
+
+
+https://www.npmjs.com/package/bootstrap-icons-vue =
+
+
+https://vuejsexamples.com/vue3-and-nuxt3-customizable-radio-input/
+
+
+https://github.com/luisangel2895/teamway-challenge?ref=vuejsexamples.com   = Nice quiz example
+
+https://www.youtube.com/watch?v=bvvVX9Pny84&t=336s  = API builidng tutorial
+
+
+https://www.youtube.com/watch?v=VqnJwh6E9ak  = Vue file upload tutorial
+
+https://flaviocopes.com/how-to-iterate-object-properties-javascript/ = Javascript Object Iteration darun jinish
+
+
+  handleSelect(myitem){
+            let obj = this.multiple_items;
+            Object.keys(obj).forEach(key => {
+                if(key == myitem){
+                     obj[key] = true;
+                     this.selected_ans = myitem;
+                }else{
+                     obj[key] = false;
+                     this.selected_ans = false;
+                }
+            });
+        },

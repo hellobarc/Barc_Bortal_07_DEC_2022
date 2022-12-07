@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk=self.webpackChunk||[]).push([[164],{5164:(e,n,t)=>{t.r(n),t.d(n,{default:()=>o});var u=t(821);const r={components:{},setup:function(){return{title:"BARC Portal is Developing with vue 3 and Laravel 8x"}}};const o=(0,t(3744).Z)(r,[["render",function(e,n,t,r,o,s){return(0,u.wg)(),(0,u.iD)("h1",null,"Course ompnotnetn")}]])}}]);
