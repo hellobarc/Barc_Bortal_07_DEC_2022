@@ -1,6 +1,7 @@
 <template lang="">
     <div>
         <div class="row">
+            {{student_list}}
                 <div class="col-md-4">
                     <div class="form-group">
                         <label for="batch">Select Batch</label>
@@ -111,7 +112,15 @@
             changeDate(event){
                 let formatted_date = `${event.getDate()}-${(event.getMonth() + 1)}-${event.getFullYear()}`;
                 this.date_of_attendance = formatted_date;
-                alert( formatted_date);
+                let payload = {batch_id:this.selected_batch, date:formatted_date};
+                AdminDataService.studentByBatchDate(payload,this.auth_token)
+                .then(res=>{
+                    this.student_list = res.data.attendenceStudent;
+                })
+                .catch(err=>{
+                    console.log(err)
+                })
+             
             },
             makePresent(student_id,index){
                 const validate =   this.checkValidate();

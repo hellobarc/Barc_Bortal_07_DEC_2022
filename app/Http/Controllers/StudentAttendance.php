@@ -115,11 +115,14 @@ class StudentAttendance extends Controller
         //$date = $request->date->format('d-m-Y');
         $date = \Carbon\Carbon::parse($request->date)->format('d-m-Y');
         $attendenceStudent = Attendance::where('batch_id', $batchId)->where('date', $date)->with('batch')->get();
+        $allStudent = [];
+        $student_id=[];
         foreach($attendenceStudent as $rows)
         {
             $student_id[] = $rows->student_id;
-            $allStudent = UserProfile::where('batch', $batchId)->whereNotIn('user_id', $student_id)->with('user')->get();
         }
+
+        $allStudent = UserProfile::where('batch', $batchId)->whereNotIn('user_id', $student_id)->with('user')->get();
 
         $classTest = ClassTest:: where('batch_id', $batchId)->with('studentmarks')->get();
         $allInfo = [
@@ -127,8 +130,12 @@ class StudentAttendance extends Controller
             'classTest' => $classTest,
             'allStudent' => $allStudent,
         ];
-        return response()->json(['attendenceStudent'=>$allInfo],202,['Content-Type' => 'application/json', 'Charset'=>'utf-8'], JSON_PRETTY_PRINT | JSON_UNESCAPED_UNICODE | JSON_UNESCAPED_SLASHES);
+        return response()->json($allInfo,202,['Content-Type' => 'application/json', 'Charset'=>'utf-8'], JSON_PRETTY_PRINT | JSON_UNESCAPED_UNICODE | JSON_UNESCAPED_SLASHES);
     }
+
+
+
+
     public function studentAttendance(Request $request, $student_id)
     {
         $attendance = Attendance::where('student_id', $student_id)->with('batch', 'student')->get();

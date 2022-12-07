@@ -55,6 +55,11 @@ class AdminDataService{
         return http.get(`admin/student_by_batch?batch_id=${batch_id}`,{header: {"Authorization" : `Bearer ${token}`, "Accept" : "application/json"} });
     }
 
+
+    studentByBatchDate(payload,token){
+        return http.post('student/attendance/list',payload,{ headers: {"Authorization" : `Bearer ${token}`} });
+    }
+
     // Make Attendance //
     makeAttendance(payload,token){
         return http.post('admin/student_make_attendance',payload,{ headers: {"Authorization" : `Bearer ${token}`} });
