@@ -109,8 +109,9 @@
                 this.selected_unit = event.target.value;
             },
             changeDate(event){
-                console.log("seleted");
-                alert(this.selected_unit);
+                let formatted_date = `${event.getDate()}-${(event.getMonth() + 1)}-${event.getFullYear()}`;
+                this.date_of_attendance = formatted_date;
+                alert( formatted_date);
             },
             makePresent(student_id,index){
                 const validate =   this.checkValidate();

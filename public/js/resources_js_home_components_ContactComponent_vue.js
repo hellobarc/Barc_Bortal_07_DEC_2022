@@ -1223,13 +1223,13 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export */ });
 /* harmony import */ var _AppdownloadComponent_vue_vue_type_template_id_81dccb2a__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./AppdownloadComponent.vue?vue&type=template&id=81dccb2a */ "./resources/js/home_components/AppdownloadComponent.vue?vue&type=template&id=81dccb2a");
 /* harmony import */ var _AppdownloadComponent_vue_vue_type_script_lang_js__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./AppdownloadComponent.vue?vue&type=script&lang=js */ "./resources/js/home_components/AppdownloadComponent.vue?vue&type=script&lang=js");
-/* harmony import */ var C_xampp_htdocs_Portal_backup_30_nov_2022_node_modules_vue_loader_dist_exportHelper_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./node_modules/vue-loader/dist/exportHelper.js */ "./node_modules/vue-loader/dist/exportHelper.js");
+/* harmony import */ var C_xampp_htdocs_Barc_Bortal_07_DEC_2022_node_modules_vue_loader_dist_exportHelper_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./node_modules/vue-loader/dist/exportHelper.js */ "./node_modules/vue-loader/dist/exportHelper.js");
 
 
 
 
 ;
-const __exports__ = /*#__PURE__*/(0,C_xampp_htdocs_Portal_backup_30_nov_2022_node_modules_vue_loader_dist_exportHelper_js__WEBPACK_IMPORTED_MODULE_2__["default"])(_AppdownloadComponent_vue_vue_type_script_lang_js__WEBPACK_IMPORTED_MODULE_1__["default"], [['render',_AppdownloadComponent_vue_vue_type_template_id_81dccb2a__WEBPACK_IMPORTED_MODULE_0__.render],['__file',"resources/js/home_components/AppdownloadComponent.vue"]])
+const __exports__ = /*#__PURE__*/(0,C_xampp_htdocs_Barc_Bortal_07_DEC_2022_node_modules_vue_loader_dist_exportHelper_js__WEBPACK_IMPORTED_MODULE_2__["default"])(_AppdownloadComponent_vue_vue_type_script_lang_js__WEBPACK_IMPORTED_MODULE_1__["default"], [['render',_AppdownloadComponent_vue_vue_type_template_id_81dccb2a__WEBPACK_IMPORTED_MODULE_0__.render],['__file',"resources/js/home_components/AppdownloadComponent.vue"]])
 /* hot reload */
 if (false) {}
 
@@ -1250,13 +1250,13 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export */ });
 /* harmony import */ var _BlogsectionComponent_vue_vue_type_template_id_3f31cd5e__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./BlogsectionComponent.vue?vue&type=template&id=3f31cd5e */ "./resources/js/home_components/BlogsectionComponent.vue?vue&type=template&id=3f31cd5e");
 /* harmony import */ var _BlogsectionComponent_vue_vue_type_script_lang_js__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./BlogsectionComponent.vue?vue&type=script&lang=js */ "./resources/js/home_components/BlogsectionComponent.vue?vue&type=script&lang=js");
-/* harmony import */ var C_xampp_htdocs_Portal_backup_30_nov_2022_node_modules_vue_loader_dist_exportHelper_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./node_modules/vue-loader/dist/exportHelper.js */ "./node_modules/vue-loader/dist/exportHelper.js");
+/* harmony import */ var C_xampp_htdocs_Barc_Bortal_07_DEC_2022_node_modules_vue_loader_dist_exportHelper_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./node_modules/vue-loader/dist/exportHelper.js */ "./node_modules/vue-loader/dist/exportHelper.js");
 
 
 
 
 ;
-const __exports__ = /*#__PURE__*/(0,C_xampp_htdocs_Portal_backup_30_nov_2022_node_modules_vue_loader_dist_exportHelper_js__WEBPACK_IMPORTED_MODULE_2__["default"])(_BlogsectionComponent_vue_vue_type_script_lang_js__WEBPACK_IMPORTED_MODULE_1__["default"], [['render',_BlogsectionComponent_vue_vue_type_template_id_3f31cd5e__WEBPACK_IMPORTED_MODULE_0__.render],['__file',"resources/js/home_components/BlogsectionComponent.vue"]])
+const __exports__ = /*#__PURE__*/(0,C_xampp_htdocs_Barc_Bortal_07_DEC_2022_node_modules_vue_loader_dist_exportHelper_js__WEBPACK_IMPORTED_MODULE_2__["default"])(_BlogsectionComponent_vue_vue_type_script_lang_js__WEBPACK_IMPORTED_MODULE_1__["default"], [['render',_BlogsectionComponent_vue_vue_type_template_id_3f31cd5e__WEBPACK_IMPORTED_MODULE_0__.render],['__file',"resources/js/home_components/BlogsectionComponent.vue"]])
 /* hot reload */
 if (false) {}
 
@@ -1277,13 +1277,13 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export */ });
 /* harmony import */ var _BrandlogoComponent_vue_vue_type_template_id_034e3e7c__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./BrandlogoComponent.vue?vue&type=template&id=034e3e7c */ "./resources/js/home_components/BrandlogoComponent.vue?vue&type=template&id=034e3e7c");
 /* harmony import */ var _BrandlogoComponent_vue_vue_type_script_lang_js__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./BrandlogoComponent.vue?vue&type=script&lang=js */ "./resources/js/home_components/BrandlogoComponent.vue?vue&type=script&lang=js");
-/* harmony import */ var C_xampp_htdocs_Portal_backup_30_nov_2022_node_modules_vue_loader_dist_exportHelper_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./node_modules/vue-loader/dist/exportHelper.js */ "./node_modules/vue-loader/dist/exportHelper.js");
+/* harmony import */ var C_xampp_htdocs_Barc_Bortal_07_DEC_2022_node_modules_vue_loader_dist_exportHelper_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./node_modules/vue-loader/dist/exportHelper.js */ "./node_modules/vue-loader/dist/exportHelper.js");
 
 
 
 
 ;
-const __exports__ = /*#__PURE__*/(0,C_xampp_htdocs_Portal_backup_30_nov_2022_node_modules_vue_loader_dist_exportHelper_js__WEBPACK_IMPORTED_MODULE_2__["default"])(_BrandlogoComponent_vue_vue_type_script_lang_js__WEBPACK_IMPORTED_MODULE_1__["default"], [['render',_BrandlogoComponent_vue_vue_type_template_id_034e3e7c__WEBPACK_IMPORTED_MODULE_0__.render],['__file',"resources/js/home_components/BrandlogoComponent.vue"]])
+const __exports__ = /*#__PURE__*/(0,C_xampp_htdocs_Barc_Bortal_07_DEC_2022_node_modules_vue_loader_dist_exportHelper_js__WEBPACK_IMPORTED_MODULE_2__["default"])(_BrandlogoComponent_vue_vue_type_script_lang_js__WEBPACK_IMPORTED_MODULE_1__["default"], [['render',_BrandlogoComponent_vue_vue_type_template_id_034e3e7c__WEBPACK_IMPORTED_MODULE_0__.render],['__file',"resources/js/home_components/BrandlogoComponent.vue"]])
 /* hot reload */
 if (false) {}
 
@@ -1304,13 +1304,13 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export */ });
 /* harmony import */ var _ContactComponent_vue_vue_type_template_id_043b18d4__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./ContactComponent.vue?vue&type=template&id=043b18d4 */ "./resources/js/home_components/ContactComponent.vue?vue&type=template&id=043b18d4");
 /* harmony import */ var _ContactComponent_vue_vue_type_script_lang_js__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./ContactComponent.vue?vue&type=script&lang=js */ "./resources/js/home_components/ContactComponent.vue?vue&type=script&lang=js");
-/* harmony import */ var C_xampp_htdocs_Portal_backup_30_nov_2022_node_modules_vue_loader_dist_exportHelper_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./node_modules/vue-loader/dist/exportHelper.js */ "./node_modules/vue-loader/dist/exportHelper.js");
+/* harmony import */ var C_xampp_htdocs_Barc_Bortal_07_DEC_2022_node_modules_vue_loader_dist_exportHelper_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./node_modules/vue-loader/dist/exportHelper.js */ "./node_modules/vue-loader/dist/exportHelper.js");
 
 
 
 
 ;
-const __exports__ = /*#__PURE__*/(0,C_xampp_htdocs_Portal_backup_30_nov_2022_node_modules_vue_loader_dist_exportHelper_js__WEBPACK_IMPORTED_MODULE_2__["default"])(_ContactComponent_vue_vue_type_script_lang_js__WEBPACK_IMPORTED_MODULE_1__["default"], [['render',_ContactComponent_vue_vue_type_template_id_043b18d4__WEBPACK_IMPORTED_MODULE_0__.render],['__file',"resources/js/home_components/ContactComponent.vue"]])
+const __exports__ = /*#__PURE__*/(0,C_xampp_htdocs_Barc_Bortal_07_DEC_2022_node_modules_vue_loader_dist_exportHelper_js__WEBPACK_IMPORTED_MODULE_2__["default"])(_ContactComponent_vue_vue_type_script_lang_js__WEBPACK_IMPORTED_MODULE_1__["default"], [['render',_ContactComponent_vue_vue_type_template_id_043b18d4__WEBPACK_IMPORTED_MODULE_0__.render],['__file',"resources/js/home_components/ContactComponent.vue"]])
 /* hot reload */
 if (false) {}
 
@@ -1331,13 +1331,13 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export */ });
 /* harmony import */ var _HowitworksComponent_vue_vue_type_template_id_14bc210f__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./HowitworksComponent.vue?vue&type=template&id=14bc210f */ "./resources/js/home_components/HowitworksComponent.vue?vue&type=template&id=14bc210f");
 /* harmony import */ var _HowitworksComponent_vue_vue_type_script_lang_js__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./HowitworksComponent.vue?vue&type=script&lang=js */ "./resources/js/home_components/HowitworksComponent.vue?vue&type=script&lang=js");
-/* harmony import */ var C_xampp_htdocs_Portal_backup_30_nov_2022_node_modules_vue_loader_dist_exportHelper_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./node_modules/vue-loader/dist/exportHelper.js */ "./node_modules/vue-loader/dist/exportHelper.js");
+/* harmony import */ var C_xampp_htdocs_Barc_Bortal_07_DEC_2022_node_modules_vue_loader_dist_exportHelper_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./node_modules/vue-loader/dist/exportHelper.js */ "./node_modules/vue-loader/dist/exportHelper.js");
 
 
 
 
 ;
-const __exports__ = /*#__PURE__*/(0,C_xampp_htdocs_Portal_backup_30_nov_2022_node_modules_vue_loader_dist_exportHelper_js__WEBPACK_IMPORTED_MODULE_2__["default"])(_HowitworksComponent_vue_vue_type_script_lang_js__WEBPACK_IMPORTED_MODULE_1__["default"], [['render',_HowitworksComponent_vue_vue_type_template_id_14bc210f__WEBPACK_IMPORTED_MODULE_0__.render],['__file',"resources/js/home_components/HowitworksComponent.vue"]])
+const __exports__ = /*#__PURE__*/(0,C_xampp_htdocs_Barc_Bortal_07_DEC_2022_node_modules_vue_loader_dist_exportHelper_js__WEBPACK_IMPORTED_MODULE_2__["default"])(_HowitworksComponent_vue_vue_type_script_lang_js__WEBPACK_IMPORTED_MODULE_1__["default"], [['render',_HowitworksComponent_vue_vue_type_template_id_14bc210f__WEBPACK_IMPORTED_MODULE_0__.render],['__file',"resources/js/home_components/HowitworksComponent.vue"]])
 /* hot reload */
 if (false) {}
 
@@ -1358,13 +1358,13 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export */ });
 /* harmony import */ var _SliderComponent_vue_vue_type_template_id_1ebdac56__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./SliderComponent.vue?vue&type=template&id=1ebdac56 */ "./resources/js/home_components/SliderComponent.vue?vue&type=template&id=1ebdac56");
 /* harmony import */ var _SliderComponent_vue_vue_type_script_lang_js__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./SliderComponent.vue?vue&type=script&lang=js */ "./resources/js/home_components/SliderComponent.vue?vue&type=script&lang=js");
-/* harmony import */ var C_xampp_htdocs_Portal_backup_30_nov_2022_node_modules_vue_loader_dist_exportHelper_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./node_modules/vue-loader/dist/exportHelper.js */ "./node_modules/vue-loader/dist/exportHelper.js");
+/* harmony import */ var C_xampp_htdocs_Barc_Bortal_07_DEC_2022_node_modules_vue_loader_dist_exportHelper_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./node_modules/vue-loader/dist/exportHelper.js */ "./node_modules/vue-loader/dist/exportHelper.js");
 
 
 
 
 ;
-const __exports__ = /*#__PURE__*/(0,C_xampp_htdocs_Portal_backup_30_nov_2022_node_modules_vue_loader_dist_exportHelper_js__WEBPACK_IMPORTED_MODULE_2__["default"])(_SliderComponent_vue_vue_type_script_lang_js__WEBPACK_IMPORTED_MODULE_1__["default"], [['render',_SliderComponent_vue_vue_type_template_id_1ebdac56__WEBPACK_IMPORTED_MODULE_0__.render],['__file',"resources/js/home_components/SliderComponent.vue"]])
+const __exports__ = /*#__PURE__*/(0,C_xampp_htdocs_Barc_Bortal_07_DEC_2022_node_modules_vue_loader_dist_exportHelper_js__WEBPACK_IMPORTED_MODULE_2__["default"])(_SliderComponent_vue_vue_type_script_lang_js__WEBPACK_IMPORTED_MODULE_1__["default"], [['render',_SliderComponent_vue_vue_type_template_id_1ebdac56__WEBPACK_IMPORTED_MODULE_0__.render],['__file',"resources/js/home_components/SliderComponent.vue"]])
 /* hot reload */
 if (false) {}
 
@@ -1385,13 +1385,13 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export */ });
 /* harmony import */ var _TestimonialComponent_vue_vue_type_template_id_55240735__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./TestimonialComponent.vue?vue&type=template&id=55240735 */ "./resources/js/home_components/TestimonialComponent.vue?vue&type=template&id=55240735");
 /* harmony import */ var _TestimonialComponent_vue_vue_type_script_lang_js__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./TestimonialComponent.vue?vue&type=script&lang=js */ "./resources/js/home_components/TestimonialComponent.vue?vue&type=script&lang=js");
-/* harmony import */ var C_xampp_htdocs_Portal_backup_30_nov_2022_node_modules_vue_loader_dist_exportHelper_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./node_modules/vue-loader/dist/exportHelper.js */ "./node_modules/vue-loader/dist/exportHelper.js");
+/* harmony import */ var C_xampp_htdocs_Barc_Bortal_07_DEC_2022_node_modules_vue_loader_dist_exportHelper_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./node_modules/vue-loader/dist/exportHelper.js */ "./node_modules/vue-loader/dist/exportHelper.js");
 
 
 
 
 ;
-const __exports__ = /*#__PURE__*/(0,C_xampp_htdocs_Portal_backup_30_nov_2022_node_modules_vue_loader_dist_exportHelper_js__WEBPACK_IMPORTED_MODULE_2__["default"])(_TestimonialComponent_vue_vue_type_script_lang_js__WEBPACK_IMPORTED_MODULE_1__["default"], [['render',_TestimonialComponent_vue_vue_type_template_id_55240735__WEBPACK_IMPORTED_MODULE_0__.render],['__file',"resources/js/home_components/TestimonialComponent.vue"]])
+const __exports__ = /*#__PURE__*/(0,C_xampp_htdocs_Barc_Bortal_07_DEC_2022_node_modules_vue_loader_dist_exportHelper_js__WEBPACK_IMPORTED_MODULE_2__["default"])(_TestimonialComponent_vue_vue_type_script_lang_js__WEBPACK_IMPORTED_MODULE_1__["default"], [['render',_TestimonialComponent_vue_vue_type_template_id_55240735__WEBPACK_IMPORTED_MODULE_0__.render],['__file',"resources/js/home_components/TestimonialComponent.vue"]])
 /* hot reload */
 if (false) {}
 

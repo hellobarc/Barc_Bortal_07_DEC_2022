@@ -138,13 +138,13 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export */ });
 /* harmony import */ var _AllQuizes_vue_vue_type_template_id_9243eb6a__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./AllQuizes.vue?vue&type=template&id=9243eb6a */ "./resources/js/content_developer/AllQuizes.vue?vue&type=template&id=9243eb6a");
 /* harmony import */ var _AllQuizes_vue_vue_type_script_lang_js__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./AllQuizes.vue?vue&type=script&lang=js */ "./resources/js/content_developer/AllQuizes.vue?vue&type=script&lang=js");
-/* harmony import */ var C_xampp_htdocs_Portal_backup_30_nov_2022_node_modules_vue_loader_dist_exportHelper_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./node_modules/vue-loader/dist/exportHelper.js */ "./node_modules/vue-loader/dist/exportHelper.js");
+/* harmony import */ var C_xampp_htdocs_Barc_Bortal_07_DEC_2022_node_modules_vue_loader_dist_exportHelper_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./node_modules/vue-loader/dist/exportHelper.js */ "./node_modules/vue-loader/dist/exportHelper.js");
 
 
 
 
 ;
-const __exports__ = /*#__PURE__*/(0,C_xampp_htdocs_Portal_backup_30_nov_2022_node_modules_vue_loader_dist_exportHelper_js__WEBPACK_IMPORTED_MODULE_2__["default"])(_AllQuizes_vue_vue_type_script_lang_js__WEBPACK_IMPORTED_MODULE_1__["default"], [['render',_AllQuizes_vue_vue_type_template_id_9243eb6a__WEBPACK_IMPORTED_MODULE_0__.render],['__file',"resources/js/content_developer/AllQuizes.vue"]])
+const __exports__ = /*#__PURE__*/(0,C_xampp_htdocs_Barc_Bortal_07_DEC_2022_node_modules_vue_loader_dist_exportHelper_js__WEBPACK_IMPORTED_MODULE_2__["default"])(_AllQuizes_vue_vue_type_script_lang_js__WEBPACK_IMPORTED_MODULE_1__["default"], [['render',_AllQuizes_vue_vue_type_template_id_9243eb6a__WEBPACK_IMPORTED_MODULE_0__.render],['__file',"resources/js/content_developer/AllQuizes.vue"]])
 /* hot reload */
 if (false) {}
 
