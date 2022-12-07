@@ -1,6 +1,11 @@
 <template lang="">
     <div>
         <div class="row">
+            <div class="col-md-12">
+                {{student_list}}
+            </div>
+        </div>
+        <div class="row">
             {{student_list}}
                 <div class="col-md-4">
                     <div class="form-group">
